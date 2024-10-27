@@ -1,1 +1,1 @@
-Web-scraper tool created for my thesis to scrape Reddit posts related to Hurricane Helene. There are two versions of the scraper, `helene.py` and `helenescrape2.py`. Three `.csv` datasets were created using the scraped data. 
+Web-scraper tool created for my thesis to scrape Reddit posts related to Hurricane Helene. There are two versions of the scraper, `helene.py` and `helenescrape2.py`. Three `.csv` datasets were created using the scraped data: `hurricane_helene_posts.csv`, `hurricane_helene_posts1.csv`, and `hurricane_helene_posts2.csv`. 
