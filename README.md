@@ -58,44 +58,7 @@ oving duplicates, and merges the datasets into a clean, unified format for furth
 
 ## Requirements
 
-To run any of the above scripts, you must first set up your environment as outlined in the [Setting Up the Environment](#setting-up-the-environment) section.
-
----
-
-## Setting Up the Environment
-
-To get started with this project, you will need to create your own virtual environment and install the dependencies. Follow these steps:
-
-1. **Create a virtual environment**:
-   
-   In your terminal, navigate to the project directory and create a virtual environment:
-   
-   ```bash
-   python3 -m venv .venv
-   ```
-
-2. **Activate the virtual environment**:
-   
-   To activate the virtual environment, use the following command:
-   
-   - On macOS/Linux:
-     ```bash
-     source .venv/bin/activate
-     ```
-   - On Windows:
-     ```bash
-     .venv\Scripts\activate
-     ```
-
-3. **Install the dependencies**:
-   
-   Once the virtual environment is activated, install the required Python packages by running:
-   
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   This will install all the dependencies required for the project.
+To run any of the above scripts, you must first set up your environment as outlined in the [General Usage Instructions](#general-usage-instructions) section.
 
 ---
 
