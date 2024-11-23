@@ -1,4 +1,4 @@
-eddit Data Scraper and Processor
+# Reddit Data Scraper and Processor
 
 This repository contains tools and scripts for scraping, cleaning, and processing data from Reddit. The project is designed to collect and analyze posts, titles, and comments from various subreddits. It is specialized for gathering data related to **Hurricane Helene**, making it particularly useful for research into natural disasters, social responses, and sentiment analysis during extreme weather events.
 
