@@ -1,0 +1,5 @@
+# Ignore all subdirectories and their contents
+*/
+
+# Include Python files in the root directory
+!*.py
