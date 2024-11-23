@@ -51,9 +51,9 @@ This script loops through multiple subreddits (related to Hurricane Helene and o
 #### 4. `KEYloopsubreddit_andothersortings.py`
 This script is an extension of `KEYloopsubreddit.py`. It includes additional sorting features to better organize the scraped data. After scraping, it can apply further sorting and filtering to categorize the data by specific criteria (e.g., post type, number of comments).
 
-#### 5. `KEYcombineandclean_subredditdatasets.py`                                                                     
-This script combines and cleans multiple subreddit datasets. It reads in multiple CSV files, processes the data by rem
-oving duplicates, and merges the datasets into a clean, unified format for further analysis.   
+#### 5. `KEYcombineandclean_subredditdatasets.py`
+This script combines and cleans multiple subreddit datasets. It reads in multiple CSV files, processes the data by removing duplicates, and merges the datasets into a clean, unified format for further analysis.   
+
 ---
 
 ## Requirements
