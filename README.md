@@ -39,21 +39,21 @@ Before running any of the following scripts, ensure that you have completed the 
 
 ### Individual Script Descriptions
 
-#### 1. `KEYcombineandclean_subredditdatasets.py`
-This script combines and cleans multiple subreddit datasets. It reads in multiple CSV files, processes the data by removing duplicates, and merges the datasets into a clean, unified format for further analysis.
-
-#### 2. `KEYhurricanehelenesubreddit.py`
+#### 1. `KEYhurricanehelenesubreddit.py`
 This script uses PRAW (Python Reddit API Wrapper) to scrape data from subreddits that are relevant to Hurricane Helene. It filters posts, titles, and comments based on specific keywords related to the hurricane, focusing on emotional responses to the event.
 
-#### 3. `KEYhurricanehelenesubreddit_withfilters.py`
+#### 2. `KEYhurricanehelenesubreddit_withfilters.py`
 This script is similar to `KEYhurricanehelenesubreddit.py`, but with additional filtering steps. It uses the same keywords to scrape posts related to Hurricane Helene and further filters out irrelevant content based on predefined conditions (e.g., certain keywords or post types).
 
-#### 4. `KEYloopsubreddit.py`
+#### 3. `KEYloopsubreddit.py`
 This script loops through multiple subreddits (related to Hurricane Helene and other topics) and scrapes posts, comments, and titles that match relevant keywords. It handles multiple subreddits and continues scraping until a specified condition is met (e.g., scraping a certain number of posts or reaching the end of the subreddit).
 
-#### 5. `KEYloopsubreddit_andothersortings.py`
+#### 4. `KEYloopsubreddit_andothersortings.py`
 This script is an extension of `KEYloopsubreddit.py`. It includes additional sorting features to better organize the scraped data. After scraping, it can apply further sorting and filtering to categorize the data by specific criteria (e.g., post type, number of comments).
 
+#### 5. `KEYcombineandclean_subredditdatasets.py`                                                                     
+This script combines and cleans multiple subreddit datasets. It reads in multiple CSV files, processes the data by rem
+oving duplicates, and merges the datasets into a clean, unified format for further analysis.   
 ---
 
 ## Requirements
