@@ -1,5 +1,4 @@
-# Ignore all subdirectories and their contents
-*/
-
-# Include Python files in the root directory
-!*.py
+# Ignore the data folder contents (except the ZIP file)
+data/*
+#!data.zip
+.venv

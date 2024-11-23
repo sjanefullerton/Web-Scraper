@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43bdc522-d108-4875-8665-2d6625c09d07" name="Changes" comment="Adding project files">
+      <change afterPath="$PROJECT_DIR$/MLApproach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysistransformers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building_3_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleandata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparingdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertemoji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countingsubreddits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countingwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diffanalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diffanalysis2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diffanalysis3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finetuning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hurricanehelenescraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loopsubreddit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newanalysistransformers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/othermodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/othersubreddits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/separate_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subredditscraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_transformers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/using_training_transformers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualizing_transformers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helene.py" beforeDir="false" afterPath="$PROJECT_DIR$/helene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helenescrape2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hurricane_helene_posts.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hurricane_helene_posts1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hurricane_helene_posts2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentimentanalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/sentimentanalysis.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sjanefullerton&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sjanefullerton/Web-Scraper.git&quot;,
+    &quot;accountId&quot;: &quot;7e0d3775-60fe-4028-ad3b-ec03a3d25c9f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2o2Coh3XbEICLb9wkK5nERPpRxJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.finetuning.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sarahjane/WebScraper&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43bdc522-d108-4875-8665-2d6625c09d07" name="Changes" comment="" />
+      <created>1730058460048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730058460048</updated>
+      <workItem from="1730058461858" duration="18914000" />
+      <workItem from="1730078680802" duration="11628000" />
+      <workItem from="1730302230558" duration="1196000" />
+      <workItem from="1731350014671" duration="10164000" />
+      <workItem from="1731437643250" duration="53491000" />
+      <workItem from="1732157936485" duration="619000" />
+      <workItem from="1732218890776" duration="10362000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding project files">
+      <option name="closed" value="true" />
+      <created>1730063868866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730063868866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding project files" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WebScraper$finetuning.coverage" NAME="finetuning Coverage Results" MODIFIED="1731356935643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
